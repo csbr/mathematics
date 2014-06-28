@@ -1,0 +1,1 @@
+This folder is for animations and applications using JavaScript.
