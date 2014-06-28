@@ -1,1 +1,1 @@
-This folder is for animations and applications using JavaScript.
+This folder is for animations and applications using Mathematics and JavaScript.
